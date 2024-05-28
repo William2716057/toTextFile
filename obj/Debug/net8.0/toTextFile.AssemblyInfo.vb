@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("toTextFile"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfbc4a77978240baab60a697c10e2e1355f005b9"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("toTextFile"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("toTextFile"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

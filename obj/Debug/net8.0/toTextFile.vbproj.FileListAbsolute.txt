@@ -12,3 +12,4 @@ C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\refint\toText
 C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.pdb
 C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.genruntimeconfig.cache
 C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\ref\toTextFile.dll
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.sourcelink.json

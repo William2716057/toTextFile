@@ -11,7 +11,8 @@ Module WriteToFile
 
 		' Write input to file
 		Try
-			File.WriteAllText(filePath, userInput)
+			' File.WriteAllText(filePath, userInput)
+			File.AppendAllText(filePath, userInput & Environment.NewLine)
 			Console.WriteLine("Saved successfully")
 		Catch ex As Exception
 			Console.WriteLine("Error writing to file: " & ex.Message)
