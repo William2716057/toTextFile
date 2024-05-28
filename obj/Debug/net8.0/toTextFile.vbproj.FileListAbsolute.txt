@@ -1,0 +1,14 @@
+C:\Users\Wills\source\repos\toTextFile\toTextFile\bin\Debug\net8.0\toTextFile.exe
+C:\Users\Wills\source\repos\toTextFile\toTextFile\bin\Debug\net8.0\toTextFile.deps.json
+C:\Users\Wills\source\repos\toTextFile\toTextFile\bin\Debug\net8.0\toTextFile.runtimeconfig.json
+C:\Users\Wills\source\repos\toTextFile\toTextFile\bin\Debug\net8.0\toTextFile.dll
+C:\Users\Wills\source\repos\toTextFile\toTextFile\bin\Debug\net8.0\toTextFile.pdb
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.AssemblyInfoInputs.cache
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.AssemblyInfo.vb
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.vbproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.dll
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\refint\toTextFile.dll
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.pdb
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\toTextFile.genruntimeconfig.cache
+C:\Users\Wills\source\repos\toTextFile\toTextFile\obj\Debug\net8.0\ref\toTextFile.dll
